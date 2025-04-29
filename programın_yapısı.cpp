@@ -18,7 +18,7 @@ main(){
 
 int main(){
     
-    std::cout << "Merhaba, Dünya!" << std::endl; // Konsola "Merhaba, Dünya!" yazdırır 
+    cout << "Merhaba, Dünya!" << endl; // Konsola "Merhaba, Dünya!" yazdırır 
     
     //std:endl: satır sonu karakteri ekler böylece boşluk bırakmış oluruz.
 
